@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\bin\Debug\ThreadFormTime.exe.config
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\bin\Debug\ThreadFormTime.exe
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\bin\Debug\ThreadFormTime.pdb
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\obj\Debug\ThreadFormTime.Control_Panel.resources
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\obj\Debug\ThreadFormTime.Properties.Resources.resources
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\obj\Debug\ThreadFormTime.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\obj\Debug\ThreadFormTime.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\obj\Debug\ThreadFormTime.exe
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\obj\Debug\ThreadFormTime.pdb
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\obj\Debug\ThreadFormTime.Control_Panel2.resources
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\ThreadFormTime\obj\Debug\ThreadFormTime.csproj.AssemblyReference.cache
